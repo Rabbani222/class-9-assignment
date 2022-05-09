@@ -1,0 +1,145 @@
+{
+
+    "students" : [
+        {
+            "Id" : 1,
+            "Name" : "Faisal",
+            "Age" : 25,
+            "Skill" : "Js Developer"
+        },
+        {
+            "Id" : 2,
+            "Name" : "Rabbani",
+            "Age" : 27,
+            "Skill" : "Mearn Developer"
+        },
+        {
+            "Id" : 3,
+            "Name" : "Abir",
+            "Age" : 22,
+            "Skill" : "Ios Developer"
+        },
+        {
+            "Id" : 4,
+            "Name" : "Shibli",
+            "Age" : 35,
+            "Skill" : "Api Developer"
+        },
+        {
+            "Id" : 5,
+            "Name" : "Mukid",
+            "Age" : 30,
+            "Skill" : "Wp Developer"
+        },
+        {
+            "Id" : 6,
+            "Name" : "Maruf",
+            "Age" : 32,
+            "Skill" : "Js Developer"
+        },
+        {
+            "Id" : 7,
+            "Name" : "Kayoum",
+            "Age" : 20,
+            "Skill" : "Wp Developer"
+        },
+        {
+            "Id" : 8,
+            "Name" : "Zahid",
+            "Age" : 18,
+            "Skill" : "Ios Developer"
+        },
+        {
+            "Id" : 9,
+            "Name" : "Nipu",
+            "Age" : 28,
+            "Skill" : "Api Developer"
+        },
+        {
+            "Id" : 10,
+            "Name" : "Robin",
+            "Age" : 45,
+            "Skill" : "Mern Developer"
+        }
+     
+    ],
+
+    "Teachers" : [
+        {
+            "Id" : 1,
+            "Name" : "Faisal",
+            "Age" : 55,
+            "Skill" : "Js Developer"
+        },
+        {
+            "Id" : 2,
+            "Name" : "Rabbani",
+            "Age" : 57,
+            "Skill" : "Mearn Developer"
+        },
+        {
+            "Id" : 3,
+            "Name" : "Abir",
+            "Age" : 52,
+            "Skill" : "Ios Developer"
+        },
+        {
+            "Id" : 4,
+            "Name" : "Shibli",
+            "Age" : 45,
+            "Skill" : "Api Developer"
+        },
+        {
+            "Id" : 5,
+            "Name" : "Mukid",
+            "Age" : 40,
+            "Skill" : "Wp Developer"
+        },
+        {
+            "Id" : 6,
+            "Name" : "Maruf",
+            "Age" : 42,
+            "Skill" : "Js Developer"
+        },
+        {
+            "Id" : 7,
+            "Name" : "Kayoum",
+            "Age" : 50,
+            "Skill" : "Wp Developer"
+        },
+        {
+            "Id" : 8,
+            "Name" : "Zahid",
+            "Age" : 48,
+            "Skill" : "Ios Developer"
+        },
+        {
+            "Id" : 9,
+            "Name" : "Nipu",
+            "Age" : 58,
+            "Skill" : "Api Developer"
+        },
+        {
+            "Id" : 10,
+            "Name" : "Robin",
+            "Age" : 35,
+            "Skill" : "Mern Developer"
+        }
+     
+    ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
